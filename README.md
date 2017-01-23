@@ -6,6 +6,8 @@
 
 > 本项目已使用 Gitbook 生成电子书。阅读文档请 [点这里](https://www.gitbook.com/read/book/atlantis1024/webpack-notes)。
 
+`src\webpack-demos` 目录下添加 [webpack-demos](https://github.com/ruanyf/webpack-demos) 的示例。
+
 ## 学习资料
 
 [webpack github](https://github.com/webpack/webpack)
