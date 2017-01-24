@@ -4,3 +4,4 @@
 * [webpack 概述](docs\README.md)
     * [安装](docs\安装.md)
     * [加载器(Loader)](docs\加载器.md)
+    * [插件(Plugins)](docs\插件.md)
