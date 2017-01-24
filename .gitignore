@@ -13,4 +13,7 @@ node_modules
 .idea
 
 # webpack
-bundle.js
+bin
+build
+dist
+*bundle.js
