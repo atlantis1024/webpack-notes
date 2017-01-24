@@ -6,11 +6,11 @@ npm-debug.log*
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories
-/node_modules/
+# js ignore folders
+node_modules
 
-# Intellij
-/.idea/
+# Intellij ignore folders
+.idea
 
 # webpack
 bundle.js
