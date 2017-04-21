@@ -20,6 +20,7 @@
     "file-loader": "0.x",
     "history": "^1.17.0",
     "html-webpack-plugin": "2.x",
+    "immutable": "^3.8.1",
     "jquery": "3.x",
     "jsx-loader": "~0.13.2",
     "open-browser-webpack-plugin": "0.x",
