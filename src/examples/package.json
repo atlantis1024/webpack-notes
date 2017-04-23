@@ -10,6 +10,10 @@
   ],
   "author": "Victor Zhang",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline"
+  },
   "dependencies": {
     "babel-core": "6.x",
     "babel-loader": "6.x",
@@ -22,6 +26,8 @@
     "html-webpack-plugin": "2.x",
     "jquery": "3.x",
     "jsx-loader": "~0.13.2",
+    "less-loader": "^4.0.3",
+    "moment": "^2.18.1",
     "open-browser-webpack-plugin": "0.x",
     "react": "15.x",
     "react-dom": "15.x",
