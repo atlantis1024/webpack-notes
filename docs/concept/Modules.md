@@ -19,7 +19,6 @@ Node.js几乎已经开始支持模块化编程。然而，在网络上，对模�
 
 ## Supported Module Types
 
-webpack supports modules written in a variety of languages and preprocessors, via *loaders*. *Loaders* describe to webpack **how** to process non-JavaScript *modules* and include these *dependencies* into your *bundles*.The webpack community has built *loaders* for a wide variety of popular languages and language processors, including:
 webpack 编写模块时，可以通过 `loaders` 来支持多种语言和处理器。`loaders` 描述了 webpack 如何处理非JavaScript模块，并将这些依赖项包含在您的捆绑包中。Webpack社区已经为各种流行的语言和语言处理器构建了装载程序，其中包括：
 
 - [CoffeeScript](http://coffeescript.org)
@@ -29,5 +28,4 @@ webpack 编写模块时，可以通过 `loaders` 来支持多种语言和处理�
 - [Less](http://lesscss.org)
 - [Stylus](http://stylus-lang.com)
 
-And many others! Overall, webpack provides a powerful and rich API for customization that allows one to use webpack for **any stack**, while staying **non-opinionated** about your development, testing, and production workflows.
 总的来说，Webpack提供了一个功能强大且丰富的API，让用户可以进行定制。webpack 可以使用于任何堆栈，同时可以将开发，测试和生产工作流独立开来。
