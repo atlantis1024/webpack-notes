@@ -1,4 +1,4 @@
-# webpack概念
+# webpack核心概念简介
 
 [Webpack](https://webpack.github.io/) 是一个模组打包工具（module bundler），它可以将许多模块封装成几个捆绑资源。
 

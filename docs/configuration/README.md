@@ -1,3 +1,5 @@
+# webpack配置简介
+
 webpack 通过 `webpack.config.js` 文件来配置选项。
 
 下面是[官方](https://webpack.js.org/configuration/#options)给出的一个包含所有选项的示例：
