@@ -6,9 +6,9 @@ Because JavaScript can be written for both server and browser, webpack offers mu
 
 > webpack 的 `target` 属性不要与 `output.libraryTarget` 属性混淆。更多信息参考 [our guide](https://webpack.js.org/concepts/output) 的 `output` 属性. 
 
-## Usage
+## 使用
 
-To set the `target` property, you simply set the target value in your webpack config:
+要设置 `target` 属性，只需在webpack config中设置目标值即可：
 
 **webpack.config.js**
 
@@ -22,7 +22,7 @@ module.exports = {
 
 webpack支持的目标环境可以参考： [targets are available](https://webpack.js.org/configuration/target)
 
-## Multiple Targets
+## 多个 target
 
 虽然webpack不支持将多个字符串传递给target属性，但您可以通过捆绑两个单独的配置来创建一个同构库：
 
@@ -53,7 +53,7 @@ module.exports = [ serverConfig, clientConfig ];
 
 上面的例子会在你项目的 `dist` 目录下创建 `lib.js` 和 `lib.node.js` 文件。
 
-## Resources
+## 资源
 
 从上面的选项可以看出，您可以选择多个不同的部署目标。以下是可以参考的示例和资源列表。
 
