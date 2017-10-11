@@ -4,7 +4,7 @@
 
 ## 使用说明
 
-> 本项目已使用 Gitbook 生成电子书。阅读文档请 [点这里](https://www.gitbook.com/read/book/zp1024/webpack-notes)。
+> 本项目已使用 Gitbook 生成电子书。阅读文档请 [点这里](https://www.gitbook.com/read/book/dunwu/webpack-notes)。
 
 `src\webpack-demos` 目录下添加 [webpack-demos](https://github.com/ruanyf/webpack-demos) 的示例。
 

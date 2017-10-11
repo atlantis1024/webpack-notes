@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zp1024/webpack-notes.git"
+    "url": "https://github.com/dunwu/webpack-notes.git"
   },
   "keywords": [
     "webpack"
   ],
   "author": "Zhang Peng",
   "license": "MIT",
-  "homepage": "https://github.com/zp1024/webpack-notes",
+  "homepage": "https://github.com/dunwu/webpack-notes",
   "bugs": {
-    "url": "https://github.com/zp1024/webpack-notes/issues"
+    "url": "https://github.com/dunwu/webpack-notes/issues"
   },
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
